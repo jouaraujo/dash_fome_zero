@@ -27,7 +27,7 @@ def top_five(df, coluna1, coluna2):
 # importando os dados
 #========================================================
 
-df = pd.read_csv('../data/data.csv')
+df = pd.read_csv('data/data.csv')
 
 # Os dados já estão limpos
 
