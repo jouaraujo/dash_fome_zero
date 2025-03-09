@@ -27,7 +27,7 @@ df = pd.read_csv('../data/data.csv')
 
 st.header('Cidades')
 
-st.sidebar.image('../fome.jpg', width=300)
+st.sidebar.image('fome.jpg', width=300)
 
 st.sidebar.markdown('# Fome Zero')
 st.sidebar.markdown('## Elevando experiências, conectando paladares.')
