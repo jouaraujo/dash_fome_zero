@@ -17,7 +17,7 @@ st.set_page_config(page_title='restaurantes', page_icon='🍽️', layout='wide'
 # importando os dados
 #========================================================
 
-df = pd.read_csv('../data/data.csv')
+df = pd.read_csv('data/data.csv')
 
 # Os dados já estão limpos
 
